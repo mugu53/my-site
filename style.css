@@ -1,0 +1,39 @@
+h1 {
+  color: red;
+}
+.title {
+  color: blue;
+}
+/* R G B -culori de baza => Rosu, Vrde, Albastru 
+0, 1, 2, ... 9,+ a, b, c, d, e, f
+
+16 milioane de culori
+256 x 256 x 256
+
+00 00 00
+ */
+#fourth-title {
+  color: green;
+}
+#second-title {
+  color: magenta;
+}
+
+* {
+  margin: 0;
+  padding: 0
+}
+.container {
+  width: 100px;
+  height: 100px;
+  background-color: aquamarine;
+  padding: 20px;
+  margin: 20px;
+}
+/* absolute si rlative
+-px=pixel
+-rem=....
+-em=...
+-%= procent
+ */
+
